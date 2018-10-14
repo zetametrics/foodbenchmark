@@ -1,0 +1,102 @@
+id,image_url,correct_label
+1,http://storage.googleapis.com/gtpictures/personal_images_raw/baby%20corn%20fry.jpg,baby corn fry
+2,http://storage.googleapis.com/gtpictures/personal_images_raw/bisibela%20bath.jpg,bisi bele bath
+3,http://storage.googleapis.com/gtpictures/personal_images_raw/brinjal%20curry.jpg,brinjal curry
+4,http://storage.googleapis.com/gtpictures/personal_images_raw/buckwheat_flour_with_tomatotes_arugula_and_cheese.jpg,buck wheat flour with tomato arugula and cheese
+5,http://storage.googleapis.com/gtpictures/personal_images_raw/carrot%20halwa.jpg,carrot halwa
+6,http://storage.googleapis.com/gtpictures/personal_images_raw/cauliflower%20potato%20and%20peas%20curry.jpg,cauliflower potato and peas curry
+7,http://storage.googleapis.com/gtpictures/personal_images_raw/chicken%20black%20ramen.jpg,chicken black ramen
+8,http://storage.googleapis.com/gtpictures/personal_images_raw/chicken%20pita%20roll%20with%20salad.jpg,chicken pita roll with salad
+9,http://storage.googleapis.com/gtpictures/personal_images_raw/chocolate%20chip%20thick%20shake.jpg,chocolate chip thick shake
+10,http://storage.googleapis.com/gtpictures/personal_images_raw/chocolate%20monster%20shake.jpg,chocolate monster shake
+11,http://storage.googleapis.com/gtpictures/personal_images_raw/dosa%20and%20potato%20peas%20cauliflower%20curry.jpg,dosa and potato peas cauliflower curry
+12,http://storage.googleapis.com/gtpictures/personal_images_raw/eggs_and_pancake.jpg,eggs and pancake
+13,http://storage.googleapis.com/gtpictures/personal_images_raw/filter%20coffee.jpg,filter coffee
+14,http://storage.googleapis.com/gtpictures/personal_images_raw/French%20toast.jpeg,french toast
+15,http://storage.googleapis.com/gtpictures/personal_images_raw/fried%20white%20shrimp%20on%20rice.jpg,fried white shrimp on rice
+16,http://storage.googleapis.com/gtpictures/personal_images_raw/gnocchi.JPG,gnocchi
+17,http://storage.googleapis.com/gtpictures/personal_images_raw/gujarati%20kadi.jpg,gujarati kadi
+18,http://storage.googleapis.com/gtpictures/personal_images_raw/gulab%20jamun.jpg,gulab jamun
+19,http://storage.googleapis.com/gtpictures/personal_images_raw/kundru%20curry.jpg,kundru curry
+20,http://storage.googleapis.com/gtpictures/personal_images_raw/methi%20rotis.jpg,methi rotis
+21,http://storage.googleapis.com/gtpictures/personal_images_raw/okonomiyaki.jpg,okonomiyaki
+22,http://storage.googleapis.com/gtpictures/personal_images_raw/onion_uthappam_and_tomato_chutney.jpg,onion uthappam and tomato chutney
+23,http://storage.googleapis.com/gtpictures/personal_images_raw/poori%20and%20chana%20masala.jpg,poori and chana masala
+24,http://storage.googleapis.com/gtpictures/personal_images_raw/raspberry%20chocolate%20cake%20with%20cream%20.jpg,raspberry chocolate cake with cream
+25,http://storage.googleapis.com/gtpictures/personal_images_raw/rava%20upma.jpg,rava upma
+26,http://storage.googleapis.com/gtpictures/personal_images_raw/red%20velvet%20pancake.jpg,red velvet pancake
+27,http://storage.googleapis.com/gtpictures/personal_images_raw/rigatoni%20pasta.jpg,rigatoni pasta
+28,http://storage.googleapis.com/gtpictures/personal_images_raw/roasted%20spanish%20mackerel.jpg,roasted spanish mackerel
+29,http://storage.googleapis.com/gtpictures/personal_images_raw/sambar%20idly.jpg,sambar idly
+30,http://storage.googleapis.com/gtpictures/personal_images_raw/Sambhar.jpeg,sambhar
+31,http://storage.googleapis.com/gtpictures/personal_images_raw/sashimi.jpeg,sashimi
+32,http://storage.googleapis.com/gtpictures/personal_images_raw/semiya%20veggie%20upma.jpg,semiya veggie upma
+33,http://storage.googleapis.com/gtpictures/personal_images_raw/strawberry%20icecream%20roll.jpg,strawberry icecream roll
+34,http://storage.googleapis.com/gtpictures/personal_images_raw/stuffed_zucchini_flowers.jpg,Stuffed zucchini flowers
+35,http://storage.googleapis.com/gtpictures/personal_images_raw/thai%20green%20curry.jpg,thai green curry
+36,http://storage.googleapis.com/gtpictures/personal_images_raw/thick%20crust%20margherita.jpg,thick crust margherita
+37,http://storage.googleapis.com/gtpictures/personal_images_raw/wine%20braised%20duck.jpg,wine braised duck
+38,http://storage.googleapis.com/gtpictures/personal_images_raw/arugula_pizza.jpg,arugula pizza
+39,http://storage.googleapis.com/gtpictures/personal_images_raw/brinjal%20curry.jpg,brinjal curry
+40,http://storage.googleapis.com/gtpictures/personal_images_raw/buckwheat%20flour%20crepe%20(galette)%20with%20chocolate%20and%20whipped%20cream.jpg,buckwheat flour crepe (galette) with chocolate and whipped cream
+41,http://storage.googleapis.com/gtpictures/personal_images_raw/cabbage%20curry.jpg,cabbage curry
+42,http://storage.googleapis.com/gtpictures/personal_images_raw/candies.jpeg,candies
+43,http://storage.googleapis.com/gtpictures/personal_images_raw/caramel%20milk%20shake%20with%20cone.jpg,caramel milk shake with cone
+44,http://storage.googleapis.com/gtpictures/personal_images_raw/cheese%2Cmushroom%2Ctomato%20bruschetta.jpg,"  cheese,mushroom,tomato bruschetta"
+45,http://storage.googleapis.com/gtpictures/personal_images_raw/chicken%20garlic%20and%20mushroom%20pasta.jpg,chicken garlic and mushroom pasta
+46,http://storage.googleapis.com/gtpictures/personal_images_raw/chicken%20momos.jpg,chicken momos
+47,http://storage.googleapis.com/gtpictures/personal_images_raw/chicken%20pesto%20spaghetti%20pasta.jpg,chicken pesto spaghetti pasta
+48,http://storage.googleapis.com/gtpictures/personal_images_raw/creme%20brulee.jpg,creme brulee
+49,http://storage.googleapis.com/gtpictures/personal_images_raw/croissant.jpg,croissant
+50,http://storage.googleapis.com/gtpictures/personal_images_raw/dhoodhi%20sabjee.jpg,dhoodhi sabjee
+51,http://storage.googleapis.com/gtpictures/personal_images_raw/duck%20braised%20with%20mushroom%20sauce.jpg,duck braised with mushroom sauce
+52,http://storage.googleapis.com/gtpictures/personal_images_raw/idlies.jpg,idlies
+53,http://storage.googleapis.com/gtpictures/personal_images_raw/mushroom%20spaghetti.jpg,mushroom spaghetti
+54,http://storage.googleapis.com/gtpictures/personal_images_raw/omelette%20with%20chesse%20and%20vegetables.jpg,omelette with chesse and vegetables
+55,http://storage.googleapis.com/gtpictures/personal_images_raw/paneer%20masala.jpg,paneer masala
+56,http://storage.googleapis.com/gtpictures/personal_images_raw/phulka%20roti.jpg,phulka roti
+57,http://storage.googleapis.com/gtpictures/personal_images_raw/pizza%20with%20tomates%20fraiches%2C%20burrata%20et%20basilic.jpg,pizza with fresh tomatoes and basil
+58,http://storage.googleapis.com/gtpictures/personal_images_raw/stuffed%20chocolate%20waffles.jpg,stuffed chocolate waffles
+59,http://storage.googleapis.com/gtpictures/personal_images_raw/sushi.jpg,sushi
+60,http://storage.googleapis.com/gtpictures/personal_images_raw/vegetable%20stir%20fry.jpg,vegetable stir fry
+61,http://storage.googleapis.com/gtpictures/personal_images_raw/waffles.jpeg,waffles
+62,http://storage.googleapis.com/gtpictures/personal_images_raw/brownie%20dipped%20in%20chocolate.jpg,brownie dipped in chocolate
+63,http://storage.googleapis.com/gtpictures/personal_images_raw/chilli%20crab.jpg,chilli crab
+64,http://storage.googleapis.com/gtpictures/personal_images_raw/corn_and_tomato.jpg,corn and tomato
+65,http://storage.googleapis.com/gtpictures/personal_images_raw/fries%20with%20cheese.jpg,fries with cheese
+66,http://storage.googleapis.com/gtpictures/personal_images_raw/pani%20puri.jpg,pani puri
+67,http://storage.googleapis.com/gtpictures/personal_images_raw/strawberry%20cup%20cake.jpg,strawberry cup cake
+68,http://storage.googleapis.com/gtpictures/personal_images_raw/vegetable%20pasta%20topped%20with%20fries.jpg,vegetable pasta topped with fries
+69,http://storage.googleapis.com/gtpictures/personal_images_raw/Veggie%20noodles.jpeg,Veggie noodles
+70,http://storage.googleapis.com/gtpictures/personal_images_raw/white%20sauce%20vegetable%20pasta.jpg,white sauce vegetable pasta
+71,http://storage.googleapis.com/gtpictures/personal_images_raw/bread%20pakoda.jpg,bread pakoda
+72,http://storage.googleapis.com/gtpictures/personal_images_raw/Fruit%20salad.jpg,Fruit salad
+73,http://storage.googleapis.com/gtpictures/personal_images_raw/Dosa%20with%20sambar%20and%20chutney.jpg,Dosa with sambar and chutney
+74,http://storage.googleapis.com/gtpictures/personal_images_raw/Chicken%20pho.jpg,Chicken pho
+75,http://storage.googleapis.com/gtpictures/personal_images_raw/galette%20frangipane.jpg,galette frangipane
+76,http://storage.googleapis.com/gtpictures/personal_images_raw/Raspberry%20Tiramisu.jpg,Raspberry Tiramisu
+77,http://storage.googleapis.com/gtpictures/personal_images_raw/crosstini%20with%20cheese.jpg,crosstini with cheese
+78,http://storage.googleapis.com/gtpictures/personal_images_raw/rose%20cake.jpg,rose cake
+79,http://storage.googleapis.com/gtpictures/personal_images_raw/pork%20and%20egg%20over%20rice.jpg,pork and egg over rice
+80,http://storage.googleapis.com/gtpictures/personal_images_raw/udon%20and%20meatball.jpg,udon and meatball
+81,http://storage.googleapis.com/gtpictures/personal_images_raw/Grilled%20shrimp%20paris%20mushroom%20and%20spinach%20salad.jpg,Grilled shrimp paris mushroom and spinach salad
+82,http://storage.googleapis.com/gtpictures/personal_images_raw/waffle%20with%20strawberries.jpg,waffle with strawberries
+83,http://storage.googleapis.com/gtpictures/personal_images_raw/Cherry%20tomatoes%20with%20ricotta%20cheese.jpg,Cherry tomatoes with ricotta cheese
+84,http://storage.googleapis.com/gtpictures/personal_images_raw/Cappuccino.jpg,Cappuccino
+85,http://storage.googleapis.com/gtpictures/personal_images_raw/Princess%20cake.jpg,Princess cake
+86,http://storage.googleapis.com/gtpictures/personal_images_raw/algerian%20cake%20with%20apricot%20jam.jpg,algerian cake with apricot jam
+87,http://storage.googleapis.com/gtpictures/personal_images_raw/Raspberry%20with%20vanilla%20icecream.jpg,Raspberry with vanilla icecream
+88,http://storage.googleapis.com/gtpictures/personal_images_raw/Avocado%20and%20egg%20toast.jpg,Avocado and egg toast
+89,http://storage.googleapis.com/gtpictures/personal_images_raw/Fish%20and%20vegetables.jpg,Fish and vegetables
+90,http://storage.googleapis.com/gtpictures/personal_images_raw/Honey%20donuts.jpg,Honey donuts
+91,http://storage.googleapis.com/gtpictures/personal_images_raw/Chinese%20cognee.jpg,Chinese cognee
+92,http://storage.googleapis.com/gtpictures/personal_images_raw/rachet.jpg,rachet
+93,http://storage.googleapis.com/gtpictures/personal_images_raw/tofu%20capsicum.jpg,tofu capsicum
+94,http://storage.googleapis.com/gtpictures/personal_images_raw/spinach%20tomato%20dal.jpg,spinach tomato dal
+95,http://storage.googleapis.com/gtpictures/personal_images_raw/mirchi%20bajji.jpg,mirchi bajji
+96,http://storage.googleapis.com/gtpictures/personal_images_raw/mixed%20dal%20vada.jpg,mixed dal vada
+97,http://storage.googleapis.com/gtpictures/personal_images_raw/mixed%20veggie%20lemon%20rice.jpg,mixed veggie lemon rice
+98,http://storage.googleapis.com/gtpictures/personal_images_raw/rava%20ladoo.jpg,rava ladoo
+99,http://storage.googleapis.com/gtpictures/personal_images_raw/sabudana%20and%20curd.jpg,sabudana and curd
+100,http://storage.googleapis.com/gtpictures/personal_images_raw/white%20beans%20chole.jpg,white beans chole
+101,http://storage.googleapis.com/gtpictures/personal_images_raw/bagara%20baingan.jpg,bagara baingan
